@@ -2,7 +2,7 @@
 # A Python script to fetch research papers from PubMed and filter authors based on non-academic affiliations. The results can be saved in a CSV file.
 
  # Clone the Repository
-git clone https://github.com/your-username/fetch-pubmed-papers.git
+git clone https://github.com/NagaBhushan9676/Aganitha.git
 cd fetch-pubmed-papers
 
 # Install Dependencies
